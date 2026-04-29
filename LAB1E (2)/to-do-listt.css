@@ -8,7 +8,9 @@
     margin: auto;
     text-align: center;
 }
-
+h2 {
+    color: darkblue;
+}
 ol {
     margin: 12px;
 }
